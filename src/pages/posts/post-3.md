@@ -1,6 +1,6 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Mi tercera publicación en el blog
-author: Alumno de Astro
 description: "Después de aprender un poco de Astro, ¡no podía parar!"
 image:
     url: "https://docs.astro.build/assets/arc.webp"
@@ -23,7 +23,3 @@ El cálculo lambda es un sistema formal desarrollado por Alonzo Church en la dé
 - **Aplicación**: Es el proceso de aplicar una función a un argumento. Por ejemplo, `(λx.x + 1) 2` aplica la función `λx.x + 1` al argumento `2`, resultando en `3`.
     
 - **Reducción**: Es el proceso de simplificar expresiones lambda. Hay varios tipos de reducción, siendo la más común la reducción beta, que sustituye la variable en la función por el argumento proporcionado.
-
-    <a href="/">Volver a la página de inicio</a>
-    <a href="/about">Sobre mi</a>
-    <a href="/blog">Blog</a>

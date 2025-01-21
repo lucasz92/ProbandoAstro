@@ -7,7 +7,7 @@ author: 'Alumno de Astro'
 image:
     url: 'https://docs.astro.build/assets/full-logo-dark.png'
     alt: 'El logotipo completo de Astro.'
-tags: ["astro", "bloguear", "aprender en público"]
+tags: ["astro", "bloguear", "aprender en público", "etiqueta"]
 ---
 
 
